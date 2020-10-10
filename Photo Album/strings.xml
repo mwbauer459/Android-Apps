@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhotoAlbum</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nxt">Next</string>
+    <string name="bck">Prev.</string>
+    <string name="AutoScroll">AutoScroll</string>
+    <string name="stopScroll">Stop Scrolling</string>
+</resources>
